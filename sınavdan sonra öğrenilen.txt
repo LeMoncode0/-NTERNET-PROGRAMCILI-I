@@ -1,0 +1,10 @@
+sınavdan sonra öğrendiklerim ; 
+
+1)background-color olayı 
+2) anchor link 
+3) div olayı 
+4) yazı hizalama
+5) kutu hizalama 
+6) class mantığı 
+7) form
+	
